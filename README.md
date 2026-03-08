@@ -1,6 +1,6 @@
-Retail Sales Analysis Dashboard (Excel)
+## Retail Sales Analysis Dashboard (Excel)
 
-Project Overview
+# Project Overview
 
 This project analyzes retail sales data to identify key business insights related to revenue performance, customer behavior, regional sales distribution, and salesperson performance.
 An interactive Excel dashboard was built to help stakeholders quickly monitor business performance and support data-driven decision making.
@@ -114,7 +114,7 @@ Files in This Repository
 
 Dashboard Preview
 
-(Add your dashboard image here in GitHub)
+![Dashboard](sales_dashboard.png)
 
 ---
 
