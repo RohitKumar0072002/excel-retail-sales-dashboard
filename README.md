@@ -2,6 +2,8 @@
 
 # Project Overview
 
+![Dashboard](sales_dashboard.png)
+
 This project analyzes retail sales data to identify key business insights related to revenue performance, customer behavior, regional sales distribution, and salesperson performance.
 An interactive Excel dashboard was built to help stakeholders quickly monitor business performance and support data-driven decision making.
 
@@ -109,14 +111,6 @@ Files in This Repository
 - "Retail_Sales_Data_Messy.xlsx" – Raw dataset
 - "Retail_Sales_Data_Analyzed.xlsx" – Data cleaning, pivot tables, and dashboard
 - "sales_dashboard.png" – Final dashboard screenshot
-
----
-
-Dashboard Preview
-
-![Dashboard](sales_dashboard.png)
-
----
 
 Author
 
