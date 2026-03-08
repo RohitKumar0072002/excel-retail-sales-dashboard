@@ -1,4 +1,4 @@
-## Retail Sales Analysis Dashboard (Excel)
+## Retail Sales Analysis (Excel)
 
 # Project Overview
 
